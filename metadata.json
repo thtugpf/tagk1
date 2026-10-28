@@ -1,0 +1,6 @@
+{
+  "name": "ENGLISH MIDTERM I – ÔN TẬP VÀ LUYỆN ĐỀ",
+  "description": "Ứng dụng học tập tương tác hỗ trợ học sinh ôn tập từ vựng, ngữ pháp, cấu trúc câu và luyện đề kiểm tra giữa học kì I môn Tiếng Anh (Unit 1 - Unit 2 - Unit 3).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
